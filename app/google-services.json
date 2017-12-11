@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271870878655",
+    "firebase_url": "https://authendb-f87d3.firebaseio.com",
+    "project_id": "authendb-f87d3",
+    "storage_bucket": "authendb-f87d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271870878655:android:90fb19d9198a1405",
+        "android_client_info": {
+          "package_name": "com.example.nod9n.authendb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271870878655-pamupbcnsodlo716areb009v7tv031te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nod9n.authendb",
+            "certificate_hash": "1ae307c3fef33e59d82b3c08322ed522775eff69"
+          }
+        },
+        {
+          "client_id": "271870878655-jfkk6p7dmp5c9g65v2ppdp2li0mtjit8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnqQEdS3eJ3oI2issoOKt1rHJBO96-CqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271870878655-jfkk6p7dmp5c9g65v2ppdp2li0mtjit8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
